@@ -10,12 +10,13 @@
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryutooooo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryutooooo&layout=compact&theme=default&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/0-profile-details.svg" />
 
-<br>
+<img height="170" src="https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+<img height="170" src="https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/2-most-commit-language.svg" />
 
-<img src="https://streak-stats.demolab.com?user=Ryutooooo&theme=default&hide_border=true" />
+<img height="170" src="https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/3-stats.svg" />
+<img height="170" src="https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/4-productive-time.svg" />
 
 <br>
 
