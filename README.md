@@ -1,19 +1,24 @@
-<!--
-**Ryutooooo/Ryutooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&width=435&lines=Software+Engineer;Go+%7C+Ruby+%7C+TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![](https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ryutooooo/Ryutooooo/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,ruby,ts,docker,git&theme=light" />
+</a>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryutooooo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryutooooo&layout=compact&theme=default&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Ryutooooo&theme=default&hide_border=true" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ryutooooo&style=flat-square&color=grey" />
+
+</div>
